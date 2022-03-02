@@ -1,3 +1,4 @@
 # Estudos e Projetos em Python
 
-Material para estudos em python.
+Material para estudos de python.
+<img src='images/python01.jpg'/>
