@@ -1,4 +1,4 @@
-# Estudos e Projetos em Python
+# Python Projects
 
-Material para estudos de python.
+
 <img src='images/python01.jpg'/>
